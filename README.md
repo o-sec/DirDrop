@@ -41,7 +41,7 @@ While this technique is stealthy and creative, it comes with several limitations
 
 ### proof-of-concept:
 
-i included a powershell script `poc.ps1` to automate the task of creating malicius directory structur.
+i included a powershell script `poc.ps1` to automate the task of creating malicius directory structure.
 
 **usage:**
 ```
